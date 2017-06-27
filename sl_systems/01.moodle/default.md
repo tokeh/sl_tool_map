@@ -3,7 +3,7 @@ title: Moodle
 visible: false
 ---
 
-<img border="0" alt="Moodle" src="../images/moodle_logo.png" height="80em">
+<img border="0" alt="Moodle" src="../images/moodle_icon.png" height="80em">
 
 ## Moodle
 ---

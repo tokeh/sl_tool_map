@@ -3,7 +3,7 @@ title: Teachmatics
 visible: false
 ---
 
-<img border="0" alt="Teachmatics" src="../images/teachmatics_logo.png" height="100em">
+<img border="0" alt="Teachmatics" src="../images/teachmatics_icon.png" height="100em">
 
 ## Teachmatics
 ---

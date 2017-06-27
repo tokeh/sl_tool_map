@@ -3,7 +3,7 @@ title: ILIAS
 visible: false
 ---
 
-<img border="0" alt="ILIAS" src="../images/ilias_logo.png" height="100em">
+<img border="0" alt="ILIAS" src="../images/ilias_icon.png" height="100em">
 
 ## ILIAS
 ---

@@ -23,7 +23,7 @@ Die SL Tool Map beinhaltet Tools, die ein SL Konzept unterstützen können. Sie 
   <tr>
   	<td class="toolName">
       <a href="sl_basic_tools/teachmatics">
-        <img border="0" alt="Teachmatics" src="images/teachmatics_logo.png">
+        <img border="0" alt="Teachmatics" src="images/teachmatics_icon.png">
       </a>
     </td> <!-- Tool name -->
     <td>zusätzliche Inhalte</td> <!-- MSL 1 -->
@@ -41,7 +41,7 @@ Die SL Tool Map beinhaltet Tools, die ein SL Konzept unterstützen können. Sie 
   <tr>
     <td class="toolName">
       <a href="sl_systems/moodle">
-        <img border="0" alt="Moodle" src="images/moodle_logo.png">
+        <img border="0" alt="Moodle" src="images/moodle_icon.png">
       </a>
     </td> <!-- Tool name -->
     <td>
@@ -104,7 +104,7 @@ Die SL Tool Map beinhaltet Tools, die ein SL Konzept unterstützen können. Sie 
   <tr>
     <td class="toolName">
       <a href="sl_systems/ilias">
-        <img border="0" alt="ILIAS" src="images/ilias_logo.png">
+        <img border="0" alt="ILIAS" src="images/ilias_icon.png">
       </a>
     </td> <!-- Tool name -->
     <td>
